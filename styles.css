@@ -165,6 +165,12 @@ header {
     z-index: 1;
 }
 
+.img {
+    hight:110px;
+    width:110px;
+    border-radius:45px;
+} 
+
 .shape {
     position: absolute;
     border-radius: 50%;
